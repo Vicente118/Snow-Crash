@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "2b94f83c42caf40a",
+    "type": "split",
+    "children": [
+      {
+        "id": "db56aab401d586f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff69258c260936ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "level03/Ressources/Solve.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Solve"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47700f434dfcb83a",
+    "type": "split",
+    "children": [
+      {
+        "id": "94344c4888ea2957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d0f26a405ebc7c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "7d4ca3ded227fc6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "01c5249565630f6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.5
+  },
+  "right": {
+    "id": "b48dde27cb7174a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6976de660b6c880",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecead979efcc9083",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sans titre 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Sans titre 1"
+            }
+          },
+          {
+            "id": "aaa92fb0eb7256ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Information Gathering/Passive/g. Goole Dorks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de g. Goole Dorks"
+            }
+          },
+          {
+            "id": "5a2b767f59a609ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "ecfaee0b8b29ae91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Information Gathering/Passive/g. Goole Dorks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de g. Goole Dorks"
+            }
+          },
+          {
+            "id": "0470532c63be1b1a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Le module complémentaire n'est plus actif."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "ff69258c260936ac",
+  "lastOpenFiles": [
+    "level02/Ressources/Solve.md",
+    "level03/Ressources/Solve.md",
+    "level03/Ressources/level03",
+    "level03/flag",
+    "level03/Ressources",
+    "level02/flag",
+    "level01/Ressources/Solve.md",
+    "level02/Ressources/level02.pcap",
+    "level01/flag",
+    "level02/Ressources",
+    "level00/Ressources/Solve.md",
+    "level01/Ressources",
+    "level00/Ressources/Solve.md.md",
+    "level00/Ressources/solve.py",
+    "4. Vulnerability Assessment/1. Vulnerability Assessment",
+    "3. Enumeration/3. Service Enumeration/LAB.md",
+    "4. Vulnerability Assessment/1. Vulnerability Assessment/Overview of Windows Vulnerabilities.md",
+    "3. Enumeration/3. Service Enumeration/a. FTP Enumeration.md",
+    "3. Enumeration/3. Service Enumeration/b. SMB Enumeration.md",
+    "3. Enumeration/3. Service Enumeration/c. Web Server Enumeration.md",
+    "3. Enumeration/3. Service Enumeration/d. MySQL Enumeration.md",
+    "3. Enumeration/3. Service Enumeration/e. SSH Enumeration.md",
+    "3. Enumeration/3. Service Enumeration/f.  SMTP Enumeration.md",
+    "3. Enumeration/2. The Nmap Scripting Engine (NSE)/MINI-LAB - T1046 Network Service and Scanning.md",
+    "3. Enumeration/2. The Nmap Scripting Engine (NSE)/c. Port Scanning with Auxiliary Modules.md",
+    "3. Enumeration/2. The Nmap Scripting Engine (NSE)/a. Port Scanning & Enumeration with Nmap.md",
+    "3. Enumeration/2. The Nmap Scripting Engine (NSE)/b. Importing Nmap Scan Results into MSF.md",
+    "Sans titre.canvas",
+    "2. Footprinting & Scanning/Sans titre.canvas",
+    "2. Footprinting & Scanning/4. Port Scanning/LAB.md",
+    "3. Enumeration/1. Intro to Enumeration/a. Introduction to Enumeration.md",
+    "2. Footprinting & Scanning/1. Introduction/Active Information Gathering.md",
+    "2. Footprinting & Scanning/2. Networking Primer/b. Network Layer.md",
+    "2. Footprinting & Scanning/2. Networking Primer/c. Transport Layer - Part 1.md",
+    "2. Footprinting & Scanning/2. Networking Primer/a. Networking Fundamentals.md",
+    "2. Footprinting & Scanning/5. Evasion, Scan Performance & Output/MINI-LAB - Windows Recon.md",
+    "2. Footprinting & Scanning/4. Port Scanning/d. Nmap Scripting Engine (NSE).md",
+    "2. Footprinting & Scanning/4. Port Scanning/c. Service Version & OS Detection.md",
+    "Cheatsheet/Sans titre.canvas",
+    "three-ways-handshake.jpg",
+    "Pasted image 20250206012627.png",
+    "Pasted image 20250206012547.png"
+  ]
+}
