@@ -2,7 +2,7 @@ There is a .pcap file in the home of level02 user.
 
 Let's first get this file on our local machine :
 ```bash
- > scp -p 4242 level02@192.168.56.101:/home/user/level02/level02.pcap ./Ressources 
+ > scp -P 4242 level02@192.168.56.101:/home/user/level02/level02.pcap ./Ressources 
 ```
 
 Let's analyze this file with Wireshark :
