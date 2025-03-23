@@ -197,3 +197,29 @@ int32_t main(int32_t argc, char** argv, char** envp)
     noreturn;
 }
 ```
+
+
+\- This program only change the first argument we provide and loop into this argument and add his string index to his ASCII value. He stores all this characters into an array of bytes and prints it. This is actually how the token was "Encrypted". We can now decrypt it with little python script.
+
+```python
+f = open("token", 'r', encoding = 'latin-1')
+data = f.read()
+
+result = ""
+
+for i in range(len(data) - 1):
+	result += chr(ord(data[i]) - i)
+
+print(result)
+```
+
+```bash
+> python3 ./decrypt.py
+f3iji1ju5yuevaus41q1afiu
+
+> su flag09
+> getflag
+s5cAJpM8ev6XHw998pRWG728z
+```
+
+*s5cAJpM8ev6XHw998pRWG728z*
