@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "level14/Ressources/Solve.md",
+                "file": "level13/Ressources/Solve.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b48dde27cb7174a1",
@@ -182,6 +181,9 @@
   },
   "active": "85842b405f314bcc",
   "lastOpenFiles": [
+    "level13/flag",
+    "level00/Ressources/Solve.md",
+    "level14/Ressources/Solve.md",
     "level13/Ressources/Solve.md",
     "level14/Ressources/getflag",
     "level13/Ressources/encrypt.c",
@@ -204,7 +206,6 @@
     "level09/Ressources/Solve.md",
     "level03/Ressources/Solve.md",
     "level01/Ressources/Solve.md",
-    "level00/Ressources/Solve.md",
     "level12/flag",
     "level12/flqg",
     "README.md",
@@ -216,7 +217,6 @@
     "3. Enumeration/3. Service Enumeration/a. FTP Enumeration.md",
     "3. Enumeration/3. Service Enumeration/b. SMB Enumeration.md",
     "3. Enumeration/3. Service Enumeration/c. Web Server Enumeration.md",
-    "3. Enumeration/3. Service Enumeration/d. MySQL Enumeration.md",
     "Sans titre.canvas",
     "2. Footprinting & Scanning/Sans titre.canvas",
     "Cheatsheet/Sans titre.canvas",

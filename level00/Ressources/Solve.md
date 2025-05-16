@@ -5,7 +5,7 @@ HINT : FIND the file executable by level00 only.
 /usr/sbin/john
 
 > cat /usr/bin/jhon
-cdiiddwpgswtgt
+
 ```
 
 Now let's make a little python script to decrypt this password that looks to be encrypted with the Caesar method.
