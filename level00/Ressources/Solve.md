@@ -1,4 +1,4 @@
-HINT : FIND the file executable by level00 only.
+ HINT : FIND the file executable by level00 only.
 
 ```bash
 > find / -user flag00 2>/dev/null

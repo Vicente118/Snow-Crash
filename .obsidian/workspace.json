@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "level13/Ressources/Solve.md",
+                "file": "level00/Ressources/Solve.md",
                 "mode": "source",
                 "source": false
               },
@@ -181,10 +181,10 @@
   },
   "active": "85842b405f314bcc",
   "lastOpenFiles": [
+    "level13/Ressources/Solve.md",
     "level13/flag",
     "level00/Ressources/Solve.md",
     "level14/Ressources/Solve.md",
-    "level13/Ressources/Solve.md",
     "level14/Ressources/getflag",
     "level13/Ressources/encrypt.c",
     "level13/Ressources/level13",
@@ -207,7 +207,6 @@
     "level03/Ressources/Solve.md",
     "level01/Ressources/Solve.md",
     "level12/flag",
-    "level12/flqg",
     "README.md",
     "level06/Sans titre.md",
     "level04/Sans titre.md",
